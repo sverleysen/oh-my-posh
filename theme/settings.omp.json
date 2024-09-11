@@ -5,17 +5,8 @@
         "alignment": "left",
         "segments": [
           {
-            "background": "#c386f1",
-            "foreground": "#ffffff",
-            "leading_diamond": "\ue0b6",
-            "style": "diamond",
-            "template": " {{ .UserName }} ",
-            "trailing_diamond": "\ue0b0",
-            "type": "session"
-          },
-          {
-            "background": "#ff479c",
-            "foreground": "#ffffff",
+            "background": "p:orange",
+            "foreground": "p:white"
             "powerline_symbol": "\ue0b0",
             "properties": {
               "folder_separator_icon": " \ue0b1 ",
